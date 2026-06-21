@@ -146,3 +146,5 @@ cat ~/Documents/WebStorm-*/bin/webstorm64.vmoptions
 - WebStorm: `https://www.jetbrains.com/webstorm/`
 - ja-netfilter: `https://github.com/ja-netfilter/ja-netfilter`
 - دریافت کد: `https://jetbra.in/s`
+---
+این روش رو بقیه هم جواب میده مثل datagrip و...
